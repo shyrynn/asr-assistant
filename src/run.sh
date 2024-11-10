@@ -1,0 +1,1 @@
+python3 download-weights.py; uvicorn main:app --reload  --host 0.0.0.0 --port 4601
